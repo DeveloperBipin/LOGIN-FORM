@@ -1,1 +1,21 @@
-LOGIN FORM WITH USING ONLY HTML I DON'T USE CSS AND JAVA SCRIPT
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>LOGIN FORM</title>
+</head>
+<body>
+  <center>
+  <h1><b>LOGIN HERE</b></h1>
+    <form>
+     USERNAME : <input type="text" name=""><br>
+    <br>
+     PASSWORD : <input type="text" value = ""><br>
+     
+    <br>
+      <input type="Submit" value="Login">
+    </form>
+  </center>
+</body>
+</html>
+ 
